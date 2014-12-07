@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/bg_card"
+    android:layout_marginLeft="6dp"
+    android:layout_width="match_parent"
+    android:layout_marginRight="6dp"
+    android:layout_marginTop="15dp"
+    android:layout_margin="30dp"
+    android:padding="30dp"
+    android:layout_marginBottom="4dp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/name"
+        android:textSize="15sp"
+        android:textColor="#34495e"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Article Name" />
+    <TextView
+        android:id="@+id/descript"
+        android:textSize="12sp"
+        android:textColor="#34495e"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_below="@+id/name"
+        android:text="Description"/>
+    <TextView
+        android:id="@+id/author"
+        android:textColor="#34495e"
+
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/descript"
+        android:layout_height="wrap_content"
+        android:text="Author" />
+
+</RelativeLayout>

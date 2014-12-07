@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Anuraag/AndroidStudioProjects/LocNews/app/build/intermediates/pre-dexed/debug/classes-b55d17709347347fe3fc498379408beb12c72216.jar"
+        jar="/Users/Anuraag/AndroidStudioProjects/LocNews/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/Anuraag/AndroidStudioProjects/LocNews/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/Anuraag/AndroidStudioProjects/LocNews/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-3cb58443da5565f8e7d3ae5ca364eb39d18e4ede.jar"
+        jar="/Users/Anuraag/AndroidStudioProjects/LocNews/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/Anuraag/AndroidStudioProjects/LocNews/app/build/intermediates/pre-dexed/debug/classes-5d3878adb87ecad87d6972dbed94399098820b70.jar"
+        jar="/Users/Anuraag/AndroidStudioProjects/LocNews/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da"/>
+
+</pre-dex-items>
